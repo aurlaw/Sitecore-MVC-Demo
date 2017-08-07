@@ -7,5 +7,13 @@
 - IIS 7+
 
 
+### Installation
+
+Uses Sitecore Instance Manager with Sitecore 8.2 Update 4 (170614). 
+Site name: sc82mvc
+
 ### Url
 ```http://sc82mvc.local/```
+
+
+
