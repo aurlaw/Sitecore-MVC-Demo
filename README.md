@@ -1,4 +1,4 @@
-#Sitecore 8.2 MVC Demo
+# Sitecore 8.2 MVC Demo
 
 ### Prerequistes
 - Visual Studio 2015 Update 3
